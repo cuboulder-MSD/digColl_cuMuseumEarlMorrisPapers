@@ -2,7 +2,7 @@
 ## Description
 CU Museum of Natural History: Earl Morris Papers metadata from the University of Colorado Boulder.
 
-The images in this collection document archaeological excavations and restoration projects led by Earl Morris, an archaeologist who worked in Mesoamerica and the southwestern United States in the first half of the 20th century. Sites excavated include Aztec Ruins National Monument, Chaco Canyon, Canyon de Chelly and Canyon del Muerto, Kawaika-a, Mesa Verde, Chichén Itzá, and Quiriguá in Guatemala. All images are sourced from the Earl H. Morris personal papers. Collection finding aid available at https://archives.colorado.edu/repositories/5/resources/2431
+The images in this collection document archaeological excavations and restoration projects led by Earl Morris, an archaeologist who worked in Mesoamerica and the southwestern United States in the first half of the 20th century. Sites excavated include Aztec Ruins National Monument, Chaco Canyon, Canyon de Chelly and Canyon del Muerto, Kawaika-a, Mesa Verde, Chichén Itzá, and Quiriguá in Guatemala. All images are sourced from the Earl H. Morris personal papers.
 
 ## Metadata
 
@@ -17,7 +17,7 @@ There are many specific types of documents and images found throughout the colle
 The photographs in the collection are digitized from glass lantern slides. Some of the slides are hand painted and others remain in black-and-white.  
 
 ### Subject Name
-Names in this field are those other than Earl Morris and referenced in documentation or identifiable in photographs.
+Names in this field are those other than Earl Morris and referenced in documentation or identified in photographs.
 
 ### Subject Geographic
 Geographic locations come from information found on enclosures associated with negatives or referenced in documentation. Some metadata records remain with an unknown geographic location. 
@@ -29,5 +29,7 @@ CU Museum of Natural History
 Copyright status depends on authorship. Letters by Earl Morris are in copyright until 2027. Letters by A. V. Kidder are in copyright until 2034. For letters written by Ann Axtell Morris, No Copyright.
 
 ## Additional Resources
+Collection finding aid available at https://archives.colorado.edu/repositories/5/resources/2431
 
 ## Notes
+Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
