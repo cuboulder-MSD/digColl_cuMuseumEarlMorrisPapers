@@ -33,3 +33,5 @@ Collection finding aid available at https://archives.colorado.edu/repositories/5
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
+
+Data Provider: The metadata was provided by the University of Colorado Museum of Natural History and items were digitized in partnership with the University of Colorado Libraries. The collection is held by the University of Colorado Museum of Natural History.
