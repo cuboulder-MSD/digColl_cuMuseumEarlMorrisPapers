@@ -1,4 +1,4 @@
-# digColl_cuMuseumEarlMorrisPapers
+# CU Museum of Natural History: Earl Morris Papers
 ## Description
 CU Museum of Natural History: Earl Morris Papers metadata from the University of Colorado Boulder.
 
