@@ -4,6 +4,9 @@ CU Museum of Natural History: Earl Morris Papers metadata from the University of
 
 The images in this collection document archaeological excavations and restoration projects led by Earl Morris, an archaeologist who worked in Mesoamerica and the southwestern United States in the first half of the 20th century. Sites excavated include Aztec Ruins National Monument, Chaco Canyon, Canyon de Chelly and Canyon del Muerto, Kawaika-a, Mesa Verde, Chichén Itzá, and Quiriguá in Guatemala. All images are sourced from the Earl H. Morris personal papers.
 
+Permanent address to digital collection: [https://doi.org/10.25810/exrh-1z50](https://doi.org/10.25810/exrh-1z50).<br /> 
+Please use the same link when sharing or citing the collection.
+
 ## Metadata
 
 ### Title
